@@ -1,0 +1,8 @@
+3.7.4
+2ab20abbf99f90b95db6cf718f531b434d38af38
+o:Sass::Tree::RootNode:@children[o:Sass::Tree::CommentNode:@value[I"�/* A Sass file that assigns:
+
+No margin or padding in body tags
+Margin 10px to all of the p tags inside body tags
+You must use nested declarations */:ET:
+@type:normal;[
